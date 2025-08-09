@@ -1,0 +1,19 @@
+- class_name: 网站
+  class_desc: 你也想要搭建这样的博客网站？
+  link_list:
+    - name: Hexo
+      link: https://hexo.io/zh-tw/
+      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
+      descr: 快速、简单且强大的网志框架
+    - name: Butterfly
+      link: https://butterfly.js.org/
+      avatar: https://butterfly.js.org/img/butterfly-icon.png
+      descr: 一个基于Hexo的主题
+
+- class_name: 友情链接
+  class_desc: 我的朋友？认识的人？有趣的人？合作的人？
+  link_list:
+    - name: 部鑫
+      link: https://buxin.us.kg
+      avatar: https://buxin.us.kg/img/favicon.png
+      descr: 一个有趣的人.”
